@@ -6,7 +6,7 @@ const Hackathons = () => {
   
   const hackathons = [
     {
-      title: 'Navonmesh AI dea Challenge 2025',
+      title: 'Navonmesh AIdea Challenge 2025 X Pharmacy Team',
       date: 'June 9-10, 2025',
       organizer: 'Innovation Hub, AKTU Lucknow',
       description: 'Reached in Grand Finale round at AKTU Lucknow, 24-hour Hackathon with Pharmacy Department, demonstrating enthusiasm, creativity, and problem-solving skills during the innovation challenge.',
